@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>News from hell, or, A speech of a ghost of one of the old kings of Ormus who being damn'd for his luxury was for his punishment sent to earth to ruin his own family and disturb the state being a mirror for monarchs, miters, and magistrates to direct their steps into the ways of peace and truth / by E.P., philopatris.</title>
+            <author>Panton, Edward.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55300</idno><idno type="EEBO-CITATION">13790602</idno>
+  <idno type="VID">101834</idno>
+  <idno type="EEBO-PROQUEST">2240868951</idno>
+  
+            <idno type="STC">Wing P275</idno>
+            <idno type="STC">ESTC R11101</idno>
+            <idno type="OCLC">13790602</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55300)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101834)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 470:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>News from hell, or, A speech of a ghost of one of the old kings of Ormus who being damn'd for his luxury was for his punishment sent to earth to ruin his own family and disturb the state being a mirror for monarchs, miters, and magistrates to direct their steps into the ways of peace and truth / by E.P., philopatris.</title>
+                  <author>Panton, Edward.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the booksellers,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by Edward Panton.  Cf. Wing.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101834:1"/>
+            <pb facs="tcp:101834:1"/>
+            <p>
+               <hi>News from Hell:</hi> OR A SPEECH of a GHOST of one of the old Kings of <hi>Ormus,</hi> who being damn'd for his Luxury, was for his punishment sent to <hi>Earth</hi> to ruin his own Family, and disturb the State.</p>
+            <p>Being a Mirror for Monarchs, Miters, and Ma<g ref="char:EOLhyphen"/>gistrates, to direct their Steps into the Ways of Peace and Truth.</p>
+            <q>Let the King live; but let Ill Government die.</q>
+            <p>By <hi>E. F. Philopatris.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Booksellers, in the Year, 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:101834:2"/>
+            <pb facs="tcp:101834:2"/>
+            <head>A SPEECH OF <hi>A Ghost, &amp;c.</hi>
+            </head>
+            <lg>
+               <l>THou Monster horrible, under whose ugly Doom,</l>
+               <l>Down in Eternity's perpetual Night,</l>
+               <l>Man's temp'ral Sins bear Torments Infinite:</l>
+               <l>For change or Desolation must I come,</l>
+               <l>To tempt the Earth, and to prophane the Light;</l>
+               <l>From mournful Silence, where Pain dares not roar</l>
+               <l>With liberty, to multiply it more;</l>
+               <l>Nor from the loathsom Puddle <hi>Acheron,</hi>
+               </l>
+               <l>Made foul with common Sins, whose filthy Damps</l>
+               <l>Feed <hi>Lethes</hi> Sink, forgetting all but Moan;</l>
+               <l>Nor from that foul Infernal shadowed Lamp,</l>
+               <l>Which lighteth <hi>Sisiphus</hi> to rowl his Stone;</l>
+               <l>These be but Bodies Plagues, the skirts of Hell,</l>
+               <l>I come from whence Death's Seat doth Death excel.</l>
+            </lg>
+            <lg>
+               <l>A Place there is, upon no Center plac'd,</l>
+               <l>Deep under Depths, as far as is the Sky</l>
+               <pb facs="tcp:101834:3"/>
+               <l>Above the Earth, dark, infinitely spac'd;</l>
+               <l>
+                  <hi>Pluto</hi> the King; the Kingdom, Misery.</l>
+               <l>The Christal may God's Glorious Seat resemble;</l>
+               <l>Horror it self these Horro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s but dissemble.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Privation</hi> would reign there, by God not made,</l>
+               <l>But Creature of an uncreated Sin;</l>
+               <l>Whose Being is all Beings to invade;</l>
+               <l>To have no ending, though it did begin:</l>
+               <l>And so of past, things p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>esent, and to come,</l>
+               <l>To give depriving, not tormenting Doom.</l>
+               <l>But Horror in the Understanding mixt,</l>
+               <l>And Mem'ry by Eternity's Seal wrought,</l>
+               <l>Unto the Bodies of the Evil fixt,</l>
+               <l>And into Reason by our Passion brought,</l>
+               <l>Here rack'd, torn, and exil'd from Unitie,</l>
+               <l>Though come from nothing, must for ever be.</l>
+            </lg>
+            <lg>
+               <l>The Sins that enter here are capital,</l>
+               <l>
+                  <hi>Atheism,</hi> where Creatures their Creator lose;</l>
+               <l>Unthankful <hi>Pride,</hi> Nature and Graces fall,</l>
+               <l>Bane of Mankind, in Man unnatural.</l>
+               <l>
+                  <hi>Hyp'crites,</hi> which Bodies leave and Shadows <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ose,</l>
+               <l>The Persons, either Kings by Fortune blest,</l>
+               <l>Or Men, by Nature made Kings of the rest.</l>
+               <l>Here Tyrants, that corrupt Authority,</l>
+               <l>By Plots which they contriv'd in Wickedness,</l>
+               <l>Cunning in Mischief, proud in Cruelty,</l>
+               <l>Are Furies made, to plague the weaker Ghosts;</l>
+               <l>Whose Souls enticing Pleasure only lost.</l>
+               <l>The weaker Kings, whose more unconstant Vice,</l>
+               <l>Their States unto their Humours made a prey;</l>
+               <l>For suffering more than Kings to tyrannize,</l>
+               <l>Are damn'd, though here to be, yet not to stay:</l>
+               <l>For back they go to tempt with ev'ry Sin,</l>
+               <l>Which easiest is the World to enter in.</l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:101834:3"/>
+               <l>My self sometimes was such, <hi>Ormus</hi> my State;</l>
+               <l>I bare the Name, yet did my Bashaw's reign.</l>
+               <l>Trusts to few Windows are unfortunate;</l>
+               <l>For Subjects growing full, are Princes wane.</l>
+               <l>Lo, all misdeeds procure their own misfate:</l>
+               <l>For by my trusted Bashaws was I slain;</l>
+               <l>Now sent to tear down my Posteritie,</l>
+               <l>That have their Sins inheritance from me.</l>
+            </lg>
+            <lg>
+               <l>My first Charge is, the Ruine of mine own;</l>
+               <l>Hell keeping knowledg still of Earthliness;</l>
+               <l>None coming there but Spirits overgrown,</l>
+               <l>And more imbodied into Wickedness:</l>
+               <l>The Body by the Spirit living ever;</l>
+               <l>The Spirit in the Body joying never.</l>
+               <l>In Heav'n perchance no such Affections be,</l>
+               <l>Those Angel Souls in Flesh imprisoned,</l>
+               <l>Like Strangers, living in Mortalitie,</l>
+               <l>Still more and more themselves inspirited;</l>
+               <l>Refining Nature to Eternitie,</l>
+               <l>By being Maids in Earths Adulterous Bed,</l>
+               <l>And idely do forget all here below,</l>
+               <l>Where we our Parents, but to plague them, know.</l>
+            </lg>
+            <lg>
+               <l>My next Charge is, from this dark Regiment,</l>
+               <l>With Wiles to scourge this Age effeminate,</l>
+               <l>Not open Force, or Humours violent,</l>
+               <l>Time fashions Minds, Minds Manners, Manners Fate;</l>
+               <l>Where Rage gives place, Wit must rule ill intent;</l>
+               <l>Proud Honour being an Evil for this State</l>
+               <l>Too strong; Sleight must mislead the Innocent;</l>
+               <l>Craft, the Corrupt: for though none dares be just,</l>
+               <l>Yet Coward ill, with Care, grow wicked must.</l>
+            </lg>
+            <lg>
+               <l>This present King, weak both in Good and Ill;</l>
+               <l>Loving his Trust, and trusting but his Chefs,</l>
+               <l>Shall perish in his own Faith's Wantonness;</l>
+               <pb facs="tcp:101834:4"/>
+               <l>Betray'd by <hi>Alaham,</hi> whom he knows ill,</l>
+               <l>Yet to beware lacks active Constantness,</l>
+               <l>The Destiny of well-believing Wit,</l>
+               <l>That hath not strength of Judgment joyn'd with it.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Al'ham</hi> his Son, fond of the Father's Throne,</l>
+               <l>
+                  <hi>Desire</hi> his Idol, <hi>Liberty</hi> his Might,</l>
+               <l>As overborn with Error infinite,</l>
+               <l>Shall find that Fate all secret faults can hit:</l>
+               <l>For he, that for himself would ruine all,</l>
+               <l>Shall perish in his Craft unnatural.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Hala</hi> his Wife, diverse and strong in Lust,</l>
+               <l>Lib'ral out of Self-Love, of Error proud;</l>
+               <l>When shameless Craft and Rage have serv'd her turn,</l>
+               <l>In Pride's vain-glorious Martyrdom shall burn.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Zophi</hi> the eldest Son, whose Reason is</l>
+               <l>With Frailty drown'd, and Silliness confus'd;</l>
+               <l>Born but to live, and yet denied this;</l>
+               <l>(So well knows Pow'r what Spir'ts may be abus'd)</l>
+               <l>Becomes the Prey of factious crafty Wit,</l>
+               <l>Which stirs that Ruine up, which ruines it.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Cain Bashaw</hi> (like the Clouds, who live in Air,</l>
+               <l>Th'Orb of Natures constant inconstancy)</l>
+               <l>Now Fame, now Shame shall in his Fortune bear;</l>
+               <l>His Vice and Vertue still in Infancy;</l>
+               <l>Change for his Wisdom, and Chance for his Ends;</l>
+               <l>Harm'd by his Hopes, and ruin'd by his Friends.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Mah'met</hi> with Honour fain would change the Tide,</l>
+               <l>Oft-times corrupt; here stopping Violence;</l>
+               <l>There countermining Craft, and pleading Right;</l>
+               <l>But Reason sworn in general to Sense,</l>
+               <l>Make Honour Bondage, Justice an Offence;</l>
+               <l>Till <hi>Liberty,</hi> that fair deceiving Light,</l>
+               <l>Turns Mischief to an Humour Popular,</l>
+               <l>Where goo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Men catch'd in Nets of Duty are.</l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:101834:4"/>
+               <l>
+                  <hi>Caelica</hi> (because in Flesh no Seeds are sown</l>
+               <l>Of Heav'nly Grace, but they must bring up Weeds)</l>
+               <l>Death in her Father's Murder she affects;</l>
+               <l>Seduc'd by Glory, whose excess still feeds</l>
+               <l>It self upon the barren steeps of Mone;</l>
+               <l>For humane Wit wants Power to divide,</l>
+               <l>Whereby Affections into Error slide.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Heli</hi> the Priest, who teaching from without,</l>
+               <l>Corrupted Faith, bound under Laws of Might;</l>
+               <l>Not feeling God, yet blowing him about</l>
+               <l>In ev'ry Shape and Likeness but the right;</l>
+               <l>Seeking the World, finds <hi>Change</hi> there joyn'd with <hi>Chance,</hi>
+               </l>
+               <l>To ruine those whom Error would advance.</l>
+            </lg>
+            <lg>
+               <l>Now mark your Charge; Each <hi>Fury</hi> work his part</l>
+               <l>In sensless Webs of Mischief over-thwart.</l>
+               <l>You are not now to work on private thoughts,</l>
+               <l>One instant is your time to alter all;</l>
+               <l>Corruption Universal must be wrought,</l>
+               <l>Impossible to you is Natural;</l>
+               <l>Plots and Effects together, must be brought;</l>
+               <l>Mischief and Shame at once must spring and fall;</l>
+               <l>Use more than Pow'r of Man to bring forth that,</l>
+               <l>Which (it is meant) all Men shall wonder at.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Craft</hi> go thou forth, work Honour into Lust;</l>
+               <l>
+                  <hi>Malice,</hi> sow in Self-love Unworthiness;</l>
+               <l>
+                  <hi>Fear,</hi> make it safe for no Man to be Just;</l>
+               <l>
+                  <hi>Wrong,</hi> be thou cloath'd in Powers Comliness;</l>
+               <l>
+                  <hi>Wit,</hi> play with Faith; take Glory in Mistrust;</l>
+               <l>Let Duty and Religion go by ghess;</l>
+               <l>
+                  <hi>Furies,</hi> stir you up War; which follow must,</l>
+               <l>When all things are corrupt with Doubleness.</l>
+               <l>From Vice to Vice let Error multiply,</l>
+               <l>With uncouth Sins, <hi>Murders, Adulteries,</hi>
+               </l>
+               <l>Incorp'rate all kind of Iniquity,</l>
+               <pb n="8" facs="tcp:101834:5"/>
+               <l>Translate the State to Forreign Tyrannies;</l>
+               <l>Keep'down the Best, and let the Worst have Pow'r,</l>
+               <l>That War and Hell may all at once devour.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Tophet</hi> prepared was for Kings of old:</l>
+               <l>For States grow old, when Princes leave the Ways</l>
+               <l>Of Honour, and take Pleasure for their Ends;</l>
+               <l>For that a <hi>large</hi> is, this a <hi>narrow Way;</hi>
+               </l>
+               <l>
+                  <hi>That</hi> wins a World, but this a few dark Friends:</l>
+               <l>The one improving Worthiness, spreads far;</l>
+               <l>Under the other Good things Prisoners are.</l>
+               <l>For when Respect, which is the strength of States,</l>
+               <l>Declines without, by Kings descent within,</l>
+               <l>And that Pow'rs Baby-Creatures dare set Rates</l>
+               <l>Of Scorn on Worth, and Honour upon Sin;</l>
+               <l>Then, though King's-Player-like, act Glory's Part,</l>
+               <l>Yet all within them is but Fear, and Art.</l>
+            </lg>
+            <lg>
+               <l>If Joys of Heaven cannot invite,</l>
+               <l>Nor Plagues of Hell our Senses fright,</l>
+               <l>We may ev'n bid our Souls Good-night.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
